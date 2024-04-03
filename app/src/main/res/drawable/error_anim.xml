@@ -1,0 +1,4 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/selected" android:oneshot="false">
+    <item android:drawable="@drawable/error404" android:duration="1000" />
+    <!-- Add more <item> tags if your GIF has multiple frames -->
+</animation-list>
